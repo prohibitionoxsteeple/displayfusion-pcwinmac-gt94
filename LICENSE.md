@@ -1,4 +1,4 @@
-# 
+# 自动 DisplayFusion 预设 Mac OS版 | 智能 DisplayFusion 预设 PC Windows版。集成 窗口管理 和 浏览器清理，跨平台性能最大化。
 
 
 
